@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <RestoreSuccess Condition=" '$(RestoreSuccess)' == '' ">True</RestoreSuccess>
+    <RestoreTool Condition=" '$(RestoreTool)' == '' ">NuGet</RestoreTool>
+    <ProjectAssetsFile Condition=" '$(ProjectAssetsFile)' == '' ">$(MSBuildThisFileDirectory)project.assets.json</ProjectAssetsFile>
+    <NuGetPackageRoot Condition=" '$(NuGetPackageRoot)' == '' ">/Users/jonasdeksnys/Desktop/_programming/projects/nutrition_planner_api/nutrition-planner/obj/.store/.stage/lzgvs3wj.5zt</NuGetPackageRoot>
+    <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">/Users/jonasdeksnys/Desktop/_programming/projects/nutrition_planner_api/nutrition-planner/obj/.store/.stage/lzgvs3wj.5zt</NuGetPackageFolders>
+    <NuGetProjectStyle Condition=" '$(NuGetProjectStyle)' == '' ">DotnetToolReference</NuGetProjectStyle>
+    <NuGetToolVersion Condition=" '$(NuGetToolVersion)' == '' ">6.2.0</NuGetToolVersion>
+  </PropertyGroup>
+  <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <SourceRoot Include="/Users/jonasdeksnys/Desktop/_programming/projects/nutrition_planner_api/nutrition-planner/obj/.store/.stage/lzgvs3wj.5zt/" />
+  </ItemGroup>
+  <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Pkgdotnet-aspnet-codegenerator Condition=" '$(Pkgdotnet-aspnet-codegenerator)' == '' ">/Users/jonasdeksnys/Desktop/_programming/projects/nutrition_planner_api/nutrition-planner/obj/.store/.stage/lzgvs3wj.5zt/dotnet-aspnet-codegenerator/6.0.5</Pkgdotnet-aspnet-codegenerator>
+  </PropertyGroup>
+</Project>
